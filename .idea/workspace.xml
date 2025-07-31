@@ -31,7 +31,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41fa0c4c-4e85-43f5-b480-b053347fb29c" name="Changes" comment="Added JSON, FrostBase class with basic functionality">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "fxoz"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/fxoz/database-cpp.git",
@@ -109,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753893764522</updated>
       <workItem from="1753893765597" duration="11126000" />
-      <workItem from="1753967626554" duration="22318000" />
+      <workItem from="1753967626554" duration="23058000" />
     </task>
     <task id="LOCAL-00001" summary="Added JSON, FrostBase class with basic functionality">
       <option name="closed" value="true" />
@@ -127,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754003971615</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added JSON, FrostBase class with basic functionality">
+      <option name="closed" value="true" />
+      <created>1754004154388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754004154388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added JSON, FrostBase class with basic functionality">
+      <option name="closed" value="true" />
+      <created>1754004184402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754004184402</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
