@@ -1,0 +1,3 @@
+/mnt/c/Users/Lynx/CLionProjects/FrostDB/cmake-build-debug/CMakeFiles/FrostDB.dir
+/mnt/c/Users/Lynx/CLionProjects/FrostDB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lynx/CLionProjects/FrostDB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

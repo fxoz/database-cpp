@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/FrostDB.dir/main.cpp.o CMakeFiles/FrostDB.dir/FrostBase.cpp.o CMakeFiles/FrostDB.dir/JSON.cpp.o -o FrostDB 
